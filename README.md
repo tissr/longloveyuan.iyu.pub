@@ -1,2 +1,1 @@
-# longloveyuan.iyu.pub
-longloveyuan.iyu.pub
+# love.iyu.pub
